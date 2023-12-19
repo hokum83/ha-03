@@ -8,6 +8,7 @@
 
 ### Задание 2
 Файл crontab: [crontab](https://github.com/hokum83/ha-03/blob/main/crontab)
+
 Скриншот результата выполнения:
 ![Скриншот результата выполнения:](https://github.com/hokum83/ha-03/blob/main/img/2-1.png)
 
